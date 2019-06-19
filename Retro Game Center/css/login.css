@@ -1,0 +1,9 @@
+.container a {
+	color: #FF8C00;
+}
+
+.form-control:focus
+{
+	box-shadow: none;
+	border-color: orange;
+}

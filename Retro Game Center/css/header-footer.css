@@ -1,0 +1,36 @@
+/* classe para colocar cor PRETO nos elementos*/
+.bg-black {
+	background-color: #000;
+}
+
+/* alterações no estilo da navbar */
+.navbar-nav.ml-auto .nav-link{
+	color: #FF8C00;
+}
+
+.navbar-nav.ml-auto .nav-link:hover{
+	color: #FFD700;
+}
+
+.navbar-nav.ml-auto .nav-link:focus{
+	color: #FFD700;
+}
+
+.navbar-nav.ml-auto .nav-item.active .nav-link{
+	color: 	#FFE910;
+}
+
+.dropdown-menu .dropdown-item:active,
+.dropdown-menu .dropdown-item.active {
+	background-color: #FFA500;
+}
+
+/* alterações no estilo do footer */
+footer p,
+footer a {
+	color: #FF8C00;
+}
+
+footer a:hover{
+	color: #FFD700;
+}

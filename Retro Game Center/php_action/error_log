@@ -1,0 +1,3 @@
+[27-May-2019 06:29:14 America/Sao_Paulo] PHP Warning:  mysqli_result::free_result(): Couldn't fetch mysqli_result in /home/u439571750/domains/retrogamecenter.com.br/public_html/php_action/loginUser.php on line 43
+[27-May-2019 09:34:00 America/Sao_Paulo] PHP Warning:  mysqli_result::free_result(): Couldn't fetch mysqli_result in /home/u439571750/domains/retrogamecenter.com.br/public_html/php_action/loginUser.php on line 43
+[27-May-2019 10:11:43 America/Sao_Paulo] PHP Warning:  mysqli_result::free_result(): Couldn't fetch mysqli_result in /home/u439571750/domains/retrogamecenter.com.br/public_html/php_action/loginUser.php on line 43

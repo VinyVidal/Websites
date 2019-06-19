@@ -1,0 +1,4 @@
+/* Style para selecionar uma linha com uma anchor <a/> */
+.row:hover {
+    background-color: orange;
+}

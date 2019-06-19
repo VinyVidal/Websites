@@ -1,0 +1,8 @@
+.page-item.active a{
+    background-color: #FFA500 !important;
+    border-color: #FF8C00 !important;
+}
+
+.page-item:not(.active) a:hover{
+    color: #FF8C00 !important;
+}

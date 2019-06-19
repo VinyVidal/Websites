@@ -1,0 +1,194 @@
+
+
+/* classe para colocar cor PRETO nos elementos*/
+.bg-black {
+	background-color: #000;
+}
+
+/* alterações no estilo da navbar */
+.navbar-nav.ml-auto .nav-link,
+#navbarDropdownUser{
+	color: #FF8C00;
+}
+
+.navbar-nav.ml-auto .nav-link:hover,
+#navbarDropdownUser:hover{
+	color: #FFD700;
+}
+
+.navbar-nav.ml-auto .nav-link:focus,
+#navbarDropdownUser:focus{
+	color: #FFD700;
+}
+
+.hidden 
+{
+    display: none;
+}
+
+.navbar-nav.ml-auto .nav-item.active .nav-link{
+	color: 	#FFE910;
+}
+
+.dropdown-menu .dropdown-item:active,
+.dropdown-menu .dropdown-item.active {
+	background-color: #FFA500;
+}
+
+/* Item da navbar com a imagem e nome do usuario*/
+.nav-user {
+    height: 40px;
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+    width: 40px;
+}
+
+
+/* alterações no estilo do footer */
+
+footer p,
+footer a {
+	color: #FF8C00;
+}
+
+footer a:hover{
+	color: #FFD700;
+}
+
+.container{
+    min-height: 40em;
+    overflow: hidden;
+}
+
+.container a {
+	color: #FF8C00;
+}
+
+.form-control:focus
+{
+	box-shadow: none;
+	border-color: orange;
+}
+
+.page-item a:focus
+{
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(239, 126, 30, 0.6);
+    outline: 0;
+}
+
+.responsive-panel
+{
+    overflow: auto;
+}
+
+.datatable input:focus,
+.datatable select:focus
+{
+    box-shadow: none;
+    outline: 0;
+	border-color: orange;
+}
+
+#buttons{
+            border: solid 1px #000;
+            position: absolute;
+            background-color: #FFF;
+        }
+
+        .preto{
+            background-color: #000;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 2px;
+            cursor: pointer;
+        }
+        .cinza{
+            background-color: #808080;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 2px;
+            cursor: pointer;
+        }
+        .violeta{
+            background-color: #ee82ee;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 2px;
+            cursor: pointer;
+        }
+        .azul{
+            background-color: #00f;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 2px;
+            cursor: pointer;
+        }
+        .turquesa{
+            background-color: #008080;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 2px;
+            cursor: pointer;
+        }
+        .verde{
+            background-color: #008000;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 2px;
+            cursor: pointer;
+        }
+        .verdeClaro{
+            background-color: #00ff00;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 2px;
+            cursor: pointer;
+        }
+        .marrom{
+            background-color: #654321;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 4px;
+            cursor: pointer;
+        }
+        .pink{
+            background-color: #ff00ff;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 2px;
+            cursor: pointer;
+        }
+        .amarelo{
+            background-color: #ffff00;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 2px;
+            cursor: pointer;
+        }
+        .laranja{
+            background-color: #ffa500;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 2px;
+            cursor: pointer;
+        }
+        .vermelho{
+            background-color: #f00;
+            width: 15px;
+            height: 15px;
+            border: solid 1px #000;
+            margin: 2px 2px;
+            cursor: pointer;
+        }

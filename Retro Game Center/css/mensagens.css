@@ -1,0 +1,20 @@
+/* Procura Users */
+
+.visible
+{
+    color: #FF8C00;
+}
+
+.visible:hover
+{
+    color: #FF8C00;
+}
+/* Fim Procura Users */
+
+/* Inbox */
+.unread
+{
+    font-weight: 500;
+}
+
+/* Fim Inbox */

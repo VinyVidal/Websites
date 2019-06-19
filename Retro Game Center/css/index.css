@@ -1,0 +1,9 @@
+/* Slider da index */
+.carousel.slide img{
+	max-height: 35rem;
+	height: 25rem;
+}
+
+.panel-transparent {
+        background: rgba(0, 0, 0, 0.5)!important;
+    }

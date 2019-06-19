@@ -1,0 +1,9 @@
+REGRAS PARA ENVIO DE JOGOS:
+
+O usuario poderá enviar 1 jogo por vez;
+Apos o envio, o pedido estará PENDENTE,
+	nesse momento, qualquer admin pode aprovar ou reprovar o pedido,
+	e o usuario pode cancelar o pedido (excluir) enquanto ainda está pendente
+
+Antes de aprovar, o admin deve ANALISAR os arquivos enviados e edita-los se necessário.
+Se for aprovado, já estará exposto no mural
