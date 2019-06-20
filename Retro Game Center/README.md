@@ -22,3 +22,8 @@ The option to download the game source code also encourages the games to be used
 
 To run this website locally, you must use Apache with the XAMPP or WAMP programs.
 To create the database, go to phpMyAdmin and import the database using the file "rgc.sql" that is contained in this directory.
+
+
+Login da conta principal
+Username: RetroMaster
+senha: root1234
