@@ -1,3 +1,6 @@
+![alt text](https://raw.githubusercontent.com/VinyVidal/Websites/master/Retro%20Game%20Center/screenshot.PNG)
+
+
 RETRO GAME CENTER
 
 O website Retro Game Center é o meu TCC do curso Técnico em Informática, realizado na ETEC de Mauá.
@@ -9,6 +12,8 @@ A opção de baixar o código-fonte do jogo também incentiva que os jogos sejam
 
 Para rodar este website localmente, é necessário utilizar o Apache com as ferramentas XAMPP ou WAMP.
 Para criar o banco de dados, acesse o phpMyAdmin e importe o banco utilizando o arquivo "rgc.sql" que está contido neste diretório.
+
+---------------------------------------------------
 
 
 RETRO GAME CENTER
@@ -23,7 +28,10 @@ The option to download the game source code also encourages the games to be used
 To run this website locally, you must use Apache with the XAMPP or WAMP programs.
 To create the database, go to phpMyAdmin and import the database using the file "rgc.sql" that is contained in this directory.
 
+-------------------------------------------------------------
 
 Login da conta principal
+
 Username: RetroMaster
+
 senha: root1234
